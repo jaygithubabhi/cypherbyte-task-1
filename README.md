@@ -1,1 +1,2 @@
-# cypherbyte-task-1
+A digital calculator in computer science typically refers to a software-based calculator that performs mathematical operations on digital data. It can range from simple command-line calculators to more sophisticated graphical ones with advanced features. 
+This program takes two numbers and an operator as input, performs the corresponding operation, and then outputs the result. The switch statement is used to determine which operation to perform based on the entered operator.
